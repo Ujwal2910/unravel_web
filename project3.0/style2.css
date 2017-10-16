@@ -1,0 +1,247 @@
+
+/* properties on nav bar*/
+
+
+#nav1 
+{
+	position:fixed;
+	width:100%;
+	z-index:15;
+	background-color:#0b3e3c;
+}
+
+
+
+
+
+/* properties vieo lecture list*/
+.vid-list-container {
+			width: 100%;
+			overflow: hidden;
+			margin-top: 20px;
+			margin-left:0%;
+			padding-bottom: 20px;
+			margin-top:70px;
+			
+		}
+		.vid-list-container1 {
+			width: 100%;
+			overflow: hidden;
+			margin-top: 20px;
+			margin-left:0%;
+			padding-bottom: 20px;
+		}
+
+		.vid-list {
+			width: 3000px;
+			position: relative;
+			top:0;
+			left: 0;
+			
+		}
+
+		.vid-item {
+			display: block;
+			width: 220px;
+			height: 220px;
+			float: left;
+			margin: 0;
+			padding: 10px;
+		}
+
+		.thumb {
+			/*position: relative;*/
+			overflow:hidden;
+			height: 120px;
+		}
+
+		.thumb img {
+			width: 100%;
+			position: relative;
+			top: -15px;
+			
+		}
+
+		.vid-item .desc {
+			color: #21A1D2;
+			font-size: 15px;
+			margin-top:30px;
+		}
+
+		.vid-item:hover {
+			background: #eee;
+			cursor: pointer;
+		}
+
+		.arrows {
+			position:relative;
+			width: 100%;
+		}
+
+		.arrow-left {
+			color: black;
+			position: absolute;
+			background: #777;
+			padding: 15px;
+			left: -25px;
+			top: -200px;
+			z-index: 99;
+			cursor: pointer;
+		}
+
+		.arrow-right {
+			color: black;
+			position: absolute;
+			background: #777;
+			padding: 15px;
+			right: -15px;
+			top: -200px;
+			z-index:100;
+			cursor: pointer;
+		}
+		
+		
+		
+
+		.arrow-left:hover {
+			background: #CC181E;
+		}
+
+		.arrow-right:hover {
+			background: #CC181E;
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		.arrow-left1 {
+			color: black;
+			position: absolute;
+			background: #777;
+			padding: 15px;
+			left: -25px;
+			top: -200px;
+			z-index: 99;
+			cursor: pointer;
+		}
+
+		.arrow-right1 {
+			color: black;
+			position: absolute;
+			background: #777;
+			padding: 15px;
+			right: -15px;
+			top: -200px;
+			z-index:100;
+			cursor: pointer;
+		}
+		
+		
+		
+
+		.arrow-left1:hover {
+			background: #CC181E;
+		}
+
+		.arrow-right1:hover {
+			background: #CC181E;
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		/*heading properties*/
+		
+		
+		
+.heading
+{
+	font-family:"comic sans ms";
+	color:black;
+	margin-left:150px;
+	position:relative;
+	top:25px;
+}
+
+
+
+/*drop down list properties
+
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 0px;
+    width:150px;
+    height:40px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius:5px;
+	margin-left:100px;
+	margin-top:30px;
+}
+
+.dropdown {
+    position: relative;
+	float:left;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+	margin-left:100px;
+	
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+	
+	
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+    
+}
+
+#sort
+{
+	margin-left:120px;
+	border-radius:5px;
+}
+
+*/
+
+
+
+
